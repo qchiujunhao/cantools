@@ -3,7 +3,7 @@
 About
 =====
 
-CAN BUS tools in Python 3.
+CAN BUS tools in Python 3 only.
 
 - `DBC`_, `KCD`_, SYM, ARXML 3&4 and CDD file parsing.
 
